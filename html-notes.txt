@@ -1,0 +1,48 @@
+HTML Basics – Beginner Notes
+What is HTML?
+
+HTML stands for HyperText Markup Language.
+It is used to create the structure of web pages.
+
+HTML tells the browser:
+
+where headings go
+
+where paragraphs go
+
+where images, links, and forms appear
+
+HTML is not a programming language.
+It is a markup language used to organize content.
+
+Why do we use HTML?
+
+Without HTML:
+
+a website has no structure
+
+the browser cannot understand content
+
+HTML is:
+
+easy to learn
+
+beginner-friendly
+
+the foundation of every website
+
+Where is HTML used?
+
+HTML is used in:
+
+Websites
+
+Web applications
+
+Email templates
+
+Online forms
+
+Important learning note
+
+HTML provides structure, CSS adds design, and JavaScript adds functionality.
