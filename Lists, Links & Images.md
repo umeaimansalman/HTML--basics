@@ -24,7 +24,7 @@ An ordered list displays items with numbers.
 
 Tag used:
 - <ol> → Ordered list
-- <li> → List item
+- <li> → Listed items
 
 Used when sequence or steps are important.
 
