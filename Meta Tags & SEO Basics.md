@@ -57,7 +57,7 @@ Defines the author of the page.
 - Improve search engine ranking
 - Make website mobile responsive
 - Help Google understand your content
-- Improve click-through rate in search 
+- Improve click-through rate in search results
 
 ---
 
