@@ -58,6 +58,6 @@ The <img> tag does'nt require a closing tag.
 
 ## 🧠 Important Note
 
-- List help organize content clearly.
+- Lists help organize content clearly.
 - Links connect web pages.
 - Images make websites more attractive and informative.
