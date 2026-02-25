@@ -52,7 +52,7 @@ Important attributes:
 - src → Image source (file path or URL)
 - alt → Alternative text (important for accessibility)
 
-The <img> tag does not require a closing tag.
+The <img> tag does'nt require a closing tag.
 
 ---
 
