@@ -28,7 +28,7 @@ Without HTML:
 - The browser cannot understand how to display content.
 
 HTML is:
-- Easy to learn
+- Easy to 
 - Beginner-friendly
 - The foundation of every website
 
