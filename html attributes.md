@@ -2,7 +2,7 @@
 
 ## 🧩 What are HTML Attributes?
 
-Attributes provide additional information about HTML elements.
+Attributes provide extra information about HTML elements.
 
 They are always written inside the opening tag.
 
