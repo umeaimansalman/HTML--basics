@@ -50,7 +50,7 @@ Unlike most tags, it does not require a closing tag.
 
 ### 4️⃣ Horizontal Line
 
-The <hr> tag creates a horizontal line across the .
+The <hr> tag creates a horizontal line across the page.
 
 It is often used to separate sections.
 
