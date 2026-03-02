@@ -59,4 +59,4 @@ It is often used to separate sections.
 ## 🧠 Important Note
 
 HTML tags are not case-sensitive,  
-but writing them in lowercase is considered best practice.
+but writing them in lowercase is considered  practice.
