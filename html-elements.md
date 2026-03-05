@@ -19,7 +19,7 @@ Example structure:
 
 ### 1️⃣ Headings
 
-HTML provides 6 levels of headings:
+HTML provides  levels of headings:
 
 - <h1> (Largest heading)
 - <h2>
