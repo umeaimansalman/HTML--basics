@@ -30,7 +30,7 @@ Makes website mobile-friendly.
 
 ### 3️⃣ Description
 
-Short  of the webpage (important for SEO).
+Short description of the webpage (important for SEO).
 
 <meta name="description" content="Learn HTML basics step by step.">
 
