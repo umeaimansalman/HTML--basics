@@ -38,7 +38,7 @@ Short description of the webpage (important for SEO).
 
 ### 4️⃣ Keywords
 
-Defines keywords related to  content.
+Defines keywords related to pages content.
 
 <meta name="keywords" content="HTML, web development, beginner tutorial">
 
