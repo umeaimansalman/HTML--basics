@@ -54,7 +54,7 @@ Defines the author of the page.
 
 ## 🎯 Why Meta Tags Matter?
 
-- Improve search engine ranking
+- Improve search  ranking
 - Make website mobile responsive
 - Help Google understand your content
 - Improve click-through rate in search results
