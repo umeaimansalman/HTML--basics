@@ -44,7 +44,7 @@ It is used for writing normal text content on a webpage.
 
 The <br> tag is used to break a line.
 
-Unlike  tags, it does not require a closing tag.
+Unlike most tags, it does not require a closing tag.
 
 ---
 
