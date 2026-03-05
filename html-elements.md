@@ -52,7 +52,7 @@ Unlike most tags, it does not require a closing tag.
 
 The <hr> tag creates a horizontal line across the page.
 
-It is  used to separate sections.
+It is often used to separate sections.
 
 ---
 
