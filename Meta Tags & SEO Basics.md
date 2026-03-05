@@ -22,7 +22,7 @@ Defines character encoding.
 
 ### 2️⃣ Viewport (Responsive Design)
 
-Makes website mobile-friendly.
+Makes website -friendly.
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
