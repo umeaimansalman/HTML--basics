@@ -60,7 +60,7 @@ Unique identifier for an element.
 ---
 
 ### 6️⃣ target
-Defines where to open the .
+Defines where to open the linked document.
 
 <a href="https://google.com" target="_blank">Open in new tab</a>
 
