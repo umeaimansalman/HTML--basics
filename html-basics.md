@@ -29,7 +29,7 @@ Without HTML:
 
 HTML is:
 - Easy to learn
-- Beginner-friendly
+- Bedly
 - The foundation of every website
 
 ---
