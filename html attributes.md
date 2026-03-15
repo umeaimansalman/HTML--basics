@@ -46,7 +46,7 @@ Alternative text for images (important for accessibility).
 ---
 
 ### 4️⃣ class
-Used for styling and selecting elements in CSS.
+Used for styling and selectinin CSS.
 
 <p class="text-style">Hello World</p>
 
