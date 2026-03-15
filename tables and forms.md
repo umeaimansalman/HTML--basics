@@ -39,7 +39,7 @@ Main form tag:
 - text → Normal text input
 - password → Hidden characters
 - email → Email input
-- numbic input
+- number → Numeric input
 - date → Date picker
 - submit → Submit button
 
