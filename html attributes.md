@@ -53,7 +53,7 @@ Used for styling and selecting elements in CSS.
 ---
 
 ### 5️⃣ id
-Unique i for ant.
+Unique identifier for ant.
 
 <div id="header"></div>
 
