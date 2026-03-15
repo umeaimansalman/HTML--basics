@@ -30,7 +30,7 @@ Without HTML:
 HTML is:
 - Easy to learn
 - Beginner-friendly
-- The fouebsite
+- The foundation of every website
 
 ---
 
