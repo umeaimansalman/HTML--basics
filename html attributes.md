@@ -53,7 +53,7 @@ Used  and selecting elements in CSS.
 ---
 
 ### 5️⃣ id
-Unique  for an element.
+Unique identifier for an element.
 
 <div id="header"></div>
 
