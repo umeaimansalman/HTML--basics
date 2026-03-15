@@ -46,14 +46,14 @@ Alternative text for images (important for accessibility).
 ---
 
 ### 4️⃣ class
-Used  and selecting elements in CSS.
+Used for styling and selecting elements in CSS.
 
 <p class="text-style">Hello World</p>
 
 ---
 
 ### 5️⃣ id
-Unique identifier fot.
+Unique identifier for ant.
 
 <div id="header"></div>
 
