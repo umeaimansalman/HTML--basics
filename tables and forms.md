@@ -37,7 +37,7 @@ Main form tag:
 ### Common Input Types
 
 - text → Normal text input
-- password → Hrs
+- password → Hidden characters
 - email → Email input
 - number → Numeric input
 - date → Date picker
