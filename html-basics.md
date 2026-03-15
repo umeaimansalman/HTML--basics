@@ -24,7 +24,7 @@ It is a **markup language** used to structure content.
 ## 🎯 Why Do We Use HTML?
 
 Without HTML:
-- A website cannot have structure.
+- A website caructure.
 - The browser cannot understand how to display content.
 
 HTML is:
