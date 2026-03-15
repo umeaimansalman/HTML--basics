@@ -47,7 +47,7 @@ Main form tag:
 
 ### Labels
 
-The <label> tag describes an input field.
+The <label> tabes an input field.
 It helps users understand what to enter.
 
 ---
