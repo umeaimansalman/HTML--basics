@@ -40,7 +40,7 @@ Main form tag:
 - password → Hidden characters
 - email → Email input
 - number → Numeric input
-- date → D\er
+- date → Date picker
 - submit → Submit button
 
 ---
