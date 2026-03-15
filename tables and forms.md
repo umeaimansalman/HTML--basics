@@ -41,7 +41,7 @@ Main form tag:
 - email → Email input
 - number → Numeric input
 - date → Date picker
-- submit → Submit button
+- submit → ton
 
 ---
 
