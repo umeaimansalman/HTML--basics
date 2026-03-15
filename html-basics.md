@@ -37,7 +37,7 @@ HTML is:
 ## 🌍 Where is HTML Used?
 
 HTML is used in:
-- Websites
+- Wes
 - Web applications
 - Email templates
 - Online forms
