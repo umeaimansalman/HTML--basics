@@ -38,7 +38,7 @@ Main form tag:
 
 - text → Normal text input
 - password → Hidden characters
-- email → Email input
+- emailil input
 - number → Numeric input
 - date → Date picker
 - submit → Submit button
