@@ -38,7 +38,7 @@ HTML is:
 
 HTML is used in:
 - Websites
-- Web applications
+- Web aptions
 - Email templates
 - Online forms
 
@@ -53,7 +53,6 @@ An HTML document is divided into three main parts:
 - `<body>` → Contains visible content of the webpage
 
 ---
-
 ## 🧠 Important Learning Note
 
 > HTML provides structure, CSS adds design, and JavaScript adds functionality.
