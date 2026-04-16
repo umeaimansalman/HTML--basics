@@ -49,7 +49,7 @@ HTML is used in:
 An HTML document is divided into three main parts:
 
 - `<html>` → Root element of the page
-- `<head>` → Contains meta information (title, links, etc.)
+- `<head>` → Contaiinformation (title, links, etc.)
 - `<body>` → Contains visible content of the webpage
 
 ---
