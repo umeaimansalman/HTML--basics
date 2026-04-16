@@ -38,7 +38,7 @@ HTML is:
 
 HTML is used in:
 - Websites
-- Web aptions
+- Web applications
 - Email templates
 - Online forms
 
