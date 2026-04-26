@@ -54,5 +54,5 @@ It h understand what to enter.
 
 ## 🧠 Important Note
 
-Forms  allowinteraction  user and website.  
+Forms  allowinteraction between user and website.  
 They are essential for modern web applications.
